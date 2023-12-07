@@ -21,7 +21,7 @@
 ## Вывод pytest
 ![image](https://github.com/minfust/LestaQASecond/assets/59063051/c1202788-ad31-4128-91b1-9907424706bb)
 
-## вывод программы
+## Вывод программы
 ![image](https://github.com/minfust/LestaQASecond/assets/59063051/c9db0516-7ff0-48ca-9ea5-2a6743967a03)
 
 
